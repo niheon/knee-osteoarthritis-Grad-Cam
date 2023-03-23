@@ -22,7 +22,7 @@ Source of Database is available on kaggle also.
 
 
 
-You can find here the checkpoints : https://www.kaggle.com/code/naim99/knee-osteoarthritis-grad-cam/output?scriptVersionId=123181435
+You can find here the checkpoints : https://www.kaggle.com/datasets/naim99/model-xception-fthdf5
 
 
 
